@@ -1,0 +1,1 @@
+# information_schema.collation_character_set_applicability
